@@ -13,4 +13,5 @@ As we know that, Low level design and high level design are the two important ca
 4)CASE STUDIES 
 
 S-Single responsiblity principle
+
 O-Open responsibility principle - open for extension and closed for modification
